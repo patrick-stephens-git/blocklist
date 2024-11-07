@@ -1,2 +1,11 @@
 ||reddit.com^
+
+! Youtube Patterns:
 ||youtube.com^
+||ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
+||ytstatic.l.google.com^
+||m.youtube.com^
+||youtube.googleapis.com^
